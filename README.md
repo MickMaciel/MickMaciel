@@ -1,6 +1,6 @@
 -  Hi, I’m @MickMaciel!
--  I continue learning ABAP, S/4Hana, SQL (and everything involving SAP).
--  I’m looking to collaborate on SAP ABAP projects.
+-  I learning ABAP, S/4Hana, SQL (and everything involving SAP).
+
 
 
 <!---
