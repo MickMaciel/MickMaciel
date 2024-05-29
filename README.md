@@ -1,5 +1,11 @@
 -  Hi, I’m @MickMaciel!
--  I learning ABAP, S/4Hana, SQL (and everything involving SAP).
+   Student at 42 Lisbon. 
+   I seek to specialize in Linux, Embedded Systems and Audio Pugins.
+  
+   | ANSI C | C++ | Python | ShellScript, Bash |
+
+   !#\bin\bash
+  
 
 
 
