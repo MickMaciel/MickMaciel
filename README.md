@@ -2,7 +2,7 @@
    Student at 42 Lisbon. 
    I seek to specialize in Linux, Embedded Systems and Audio Pugins.
   
-   | ANSI C | C++ | Python | ShellScript, Bash |
+   | C/C++ | ShellScript, Bash |
 
    !#\bin\bash
   
