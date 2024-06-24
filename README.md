@@ -3,8 +3,7 @@
    
    I seek to specialize in Embedded Systems and DSP to Audio Applications.
   
-   C/C++
-   !#\bin\bash
+   | C/C++   &&   !#\bin\bash |
   
 
 
