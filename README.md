@@ -1,9 +1,9 @@
--  Hi, I’m @MickMaciel!
-   Student at 42 Lisbon. 
-   I seek to specialize in Linux, Embedded Systems and Audio Pugins.
+-  Hi, I’m @MickMaciel,
+   Software Developer, Electronic Technician and Musician.
+   
+   I seek to specialize in Embedded Systems and DSP to Audio Softwares Applications.
   
-   | C/C++ | ShellScript, Bash |
-
+   C/C++
    !#\bin\bash
   
 
