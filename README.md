@@ -2,7 +2,7 @@
 
   I seek to specialize in Embedded Systems and DSP for Audio Applications.
 
-  | C/C++ __&&__ !#\bin\bash |
+  C && C++ && !#\bin\bash
 
 <!---
 MickMaciel/MickMaciel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
