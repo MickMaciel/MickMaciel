@@ -1,7 +1,7 @@
 -  Hi, I’m @MickMaciel,
    Software Developer, Electronic Technician and Musician.
    
-   I seek to specialize in Embedded Systems and DSP to Audio Softwares Applications.
+   I seek to specialize in Embedded Systems and DSP to Audio Applications.
   
    C/C++
    !#\bin\bash
